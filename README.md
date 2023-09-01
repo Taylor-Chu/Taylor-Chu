@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Taylor-Chu
 - 👀 I’m interested in machine learning and photography
-- 🌱 I’m currently doing MSc Applied Data Science at Heriot Watt University in Edinburgh
+- 🌱 I’m currently a PhD candidate researching Radio Interferometric Imaging at Heriot Watt University and University of Edinburgh.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: taylorchu1213@gmail.com
 
